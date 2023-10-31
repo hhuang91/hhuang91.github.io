@@ -1,5 +1,6 @@
 ---
 title: "More About me"
+permalink: "/aboutMe/"
 layout: page
 ---
 
