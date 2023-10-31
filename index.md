@@ -1,15 +1,20 @@
 ---
-Layout: default
-title: "Home"
+layout: default
+title: "Home Page"
 ---
 
 
 
-# Heyuan Huang
+# Home Page
 
-<img src="pictures/me.jpeg" alt="Alt text" title="Optional title" style="zoom:50%;" />
+<p align='center'>
+  <img src="pictures/me.jpeg" alt="A photo of me" title="Heyuan" style="zoom:50%;">
+</p>
 
-Hello and welcome! My name is Heyuan Huang, currently a Ph.D. candidate at Biomedical Engineering Department at Johns Hopkins University. 
+
+
+
+Hello and welcome! My name is Heyuan Huang, currently a Ph.D. candidate in Biomedical Engineering at Johns Hopkins University. 
 
 My reseach topics include:
 
@@ -20,4 +25,4 @@ My reseach topics include:
 
 My current projects focus on using learning-based methods for motion compensation in interventional cone-beam CT, addressing the one of the most difficult challenges facing CBCT imaging.
 
-Please feel free to checkout the resume/CV and research section of this website for more details about my research and skills. Or, if you are interested, you are very welcome to check out the About Me section for the fun side of me (teaser: I'm actually also a music producer).
+Please feel free to checkout my [Resume/CV](documents/Heyuan_Huang_Resume.pdf) and [the research section](research.md) of this website for more details about my research and skills. Or, if you are interested, you are very welcome to check out the [More About Me](aboutMe.md) section for the fun side of me.
