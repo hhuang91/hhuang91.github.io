@@ -1,6 +1,5 @@
 ---
 title: "More About me"
-permalink: "/about/"
 layout: page
 ---
 
@@ -24,8 +23,9 @@ I wouldn't call it my side gig if I'm not a "published writer." I have been rele
 Below is a photo of my current studio. My proud and joy!
 
 <p align='center'>
-  <img src="pictures/Studio.jpeg" alt="A photo of my studio" title="Studio" style="zoom:100%;">
+  <img src="pictures/studio.jpeg" alt="A photo of my studio" title="Studio" style="zoom:100%;">
 </p>
+
 
 
 
