@@ -6,7 +6,7 @@ layout: page
 
 # More About Me (The Fun Side)
 
-Hi! I'm really gald you are interested in learning more about me! Here you will find the fun side of me, i.e. the non-research/work related stuff. For my professional portfolio, feel free to checkout either my [Resume/CV](documents/Heyuan_Huang_Resume.pdf) or [the research section](research.md) of this website. 
+Hi! I'm really gald you are interested in learning more about me! Here you will find the fun side of me, i.e. the non-research/work related stuff. For my professional portfolio, feel free to checkout either my [Resume/CV](https://hhuang91.github.io/HeyuanHuangResume.pdf) or [the research section](research.md) of this website. 
 
 ## My Side Gig
 
@@ -17,7 +17,7 @@ By using the word “gig,” I'm hoping to give you some hint :) I'm also a elec
 </p>
 
 
-What is trance music, you ask? Well, it's a bit hard to just define it in a few words, but think it of some sort of melodic techno but fast, more energetic, and more euphoric. Simply search "Trance playlist" on YouTube, for instance, can give you a good list of trending tracks. Feel free to explore them and see if you like them :)
+What is trance music, you ask? Well, it's a bit hard to just define it in a few words, but think it as some sort of melodic techno but faster, more energetic, and more euphoric. Simply searching "Trance playlist" on YouTube, for instance, can give you a good list of trending tracks. Feel free to explore them and see if you like them :)
 
 I wouldn't call it my side gig if I'm not a "published writer." I have been releasing music with recording labels for more than 3 years, and, you can find music on any major platform. Just search "RayD8" in your spotify, apple music, YouTube music, etc., and my logo should pop up.
 
@@ -37,7 +37,7 @@ How would life be complete without pets? We (I and my girlfriend) have a cat (Am
 
 ### The cat Morphe (pronounced morph-ee)
 
-A 2-year-old female calico. She grew up with our dog, so picked up some wonderful dog habits, like responding to call (verbally and she would come), fetch, and enjoyment of belly rub! She would roll up her belly when she is happy, and you can pet her belly for a minute or two before the chance of being bitten rises :) She is also **very verbal**, and would chat with you some time! Here is a picture of her. Indulge yourself with come cuteness! 
+A 2-year-old female calico. She grew up with our dog, so picked up some wonderful dog habits, like responding to call (verbally and she would come), fetch, and enjoyment of belly rub! She would roll up her belly when she is happy, and you can pet her belly for a minute or two before the chance of being bitten rises :) She is also **very verbal**, and would chat with you sometimes! Here is a picture of her. Indulge yourself with come cuteness! 
 
 <p align='center'>
   <img src="pictures/morphe.jpeg" alt="How cute!" title="Morphe" style="zoom:100%;">
