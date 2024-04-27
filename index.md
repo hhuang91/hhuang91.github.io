@@ -25,4 +25,4 @@ My reseach topics include:
 
 My current projects focus on using learning-based methods for motion compensation in interventional cone-beam CT, addressing the one of the most difficult challenges facing CBCT imaging.
 
-Please feel free to checkout my [Resume/CV](HeyuanHuangResume.pdf) and [the research section](research.md) of this website for more details about my research and skills. Or, if you are interested, you are very welcome to check out the [More About Me](aboutMe.md) section for the fun side of me.
+Please feel free to checkout my [LinkedIn](www.linkedin.com/in/heyuan-huang-87374b129), [Resume/CV](HeyuanHuangResume.pdf), and [the research section](research.md) of this website for more details about my research and skills. Or, if you are interested, you are very welcome to check out the [More About Me](aboutMe.md) section for the fun side of me.
