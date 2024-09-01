@@ -5,11 +5,13 @@ layout: post
 categories: media
 ---
 
-# Extending The Concept of Learning-Based Autofocus Metric to Deformable Motion in Interventional CBCT by Utilizing Context-Aware Architecture
+Extending The Concept of Learning-Based Autofocus Metric to Deformable Motion in Interventional CBCT by Utilizing Context-Aware Architecture
 
-## [2023] Deformable Motion Compensation in Interventional Cone-Beam CT with a Context-Aware Learned Autofocus Metric
+## [2024] Deformable Motion Compensation in Interventional Cone-Beam CT with a Context-Aware Learned Autofocus Metric
 
-[H. Huang, Y. Liu, J.H. Siewerdsen, A. Lu, Y. Hu, W. Zbijewski, M. Unberath, C.R. Weiss, A. Sisniega, “Deformable Motion Compensation in Interventional Cone-Beam CT with a Context-Aware Learned Autofocus Metric,” submitted (available upon request).]()
+[Huang H, Liu Y, Siewerdsen JH, et al. Deformable motion compensation in interventional cone-beam CT with a context-aware learned autofocus metric. *Med Phys*. 2024; 51: 4158–4180. ](https://doi.org/10.1002/mp.17125.)
+
+Interventional Cone-Beam CT (CBCT) offers 3D visualization of soft-tissue and vascular anatomy, enabling 3D guidance of abdominal interventions. However, its long acquisition time makes CBCT susceptible to patient motion. Image-based autofocus offers a suitable platform for compensation of deformable motion in CBCT, but it relies on handcrafted motion metrics based on first-order image properties and that lack awareness of the underlying anatomy. This work proposes a data-driven approach to motion quantification via a learned, context-aware, deformable metric, $\mathbf{VI⁢F_{D⁢L}}$, that quantifies the amount of motion degradation as well as the realism of the structural anatomical content in the image.
 
 <p align='center'>
   <img src="/researchPosts/DefDLVIF/images/clinicalCase.png" alt="Rigid Motion Compensation on Cadaver Head" title="LDSDE Results" style="zoom:100%;">
@@ -35,6 +37,5 @@ Deformable motion is one of the main challenges to image quality in intervention
 <p align='center'>
   <img src="/researchPosts/DefDLVIF/images/network.png" alt="Rigid Motion Compensation on Cadaver Head" title="LDSDE Results" style="zoom:100%;">
 </p>
-
 
 
