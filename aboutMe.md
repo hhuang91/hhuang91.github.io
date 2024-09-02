@@ -1,10 +1,10 @@
 ---
-title: "More About me"
+title: "Extra"
 permalink: "/aboutMe/"
 layout: page
 ---
 
-# More About Me (The Fun Side)
+# The Fun Side of Me
 
 Hi! I'm really gald you are interested in learning more about me! Here you will find the fun side of me, i.e. the non-research/work related stuff. For my professional portfolio, feel free to checkout either my [Resume/CV](https://hhuang91.github.io/HeyuanHuangResume.pdf) or [the research section](research.md) of this website. 
 
@@ -35,9 +35,9 @@ Below is a photo of my current studio. My proud and joy!
 
 How would life be complete without pets? We (I and my girlfriend) have a cat (American shorthair diluted calico) **AND** a dog (Samoyed). Feel free to find more about them below!
 
-### The cat Morphe (pronounced morph-ee)
+### The cat, Morphe (pronounced morph-ee)
 
-A 2-year-old female calico. She grew up with our dog, so picked up some wonderful dog habits, like responding to call (verbally and she would come), fetch, and enjoyment of belly rub! She would roll up her belly when she is happy, and you can pet her belly for a minute or two before the chance of being bitten rises :) She is also **very verbal**, and would chat with you sometimes! Here is a picture of her. Indulge yourself with come cuteness! 
+A 2-year-old female calico. She grew up with our dog, so picked up some wonderful dog habits, like responding to call (verbally and she would come), fetch, and enjoyment of belly rub! She would roll up her belly when she is happy, and you can pet her belly for a minute or two before the chance of being bitten rises :) She is also **very vocal**, and would chat with you sometimes! Here is a picture of her. Indulge yourself with come cuteness! 
 
 <p align='center'>
   <img src="pictures/morphe.jpeg" alt="How cute!" title="Morphe" style="zoom:100%;">

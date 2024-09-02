@@ -8,19 +8,23 @@ title: "Home"
 # Home Page
 
 <p align='center'>
-  <img src="pictures/me.jpeg" alt="A photo of me" title="Heyuan" style="zoom:50%;">
+  <img src="pictures/me.jpeg" alt="A photo of me" title="Heyuan" style="zoom:25%;">
 </p>
 
 
 
 
-Hello and welcome! My name is Heyuan Huang, currently a Ph.D. candidate in Biomedical Engineering at Johns Hopkins University. 
 
-My reseach topics include:
+Hello and welcome! My name is Heyuan Huang, currently a Ph.D. candidate in Biomedical Engineering at Johns Hopkins University [expected graduation: April 2025]. 
+
+My reseach experience includes:
 
 * Machine learning 
 * X-ray computed tomography
-* Motion compensation
+* Image Reconstruction
+* Image Registration
+* Imaging Physics
+* Medical Image Processing and Analysis
 * Interventional Radiology
 
 My current projects focus on using learning-based methods for motion compensation in interventional cone-beam CT, addressing the one of the most difficult challenges facing CBCT imaging.
