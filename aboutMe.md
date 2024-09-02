@@ -46,7 +46,7 @@ A 2-year-old female calico. She grew up with our dog, so picked up some wonderfu
 
 ### The dog, Tang Tang (which means Candy Candy in Chinese)
 
-A 9-year-old female Samoyed that we got from our freinds when she was 2 years old. She had a rough life, sadly: she had broken one of her forelegs when she was only a puppy, and although her former owner managed to the leg, her mobility had been sadly restricted. Tang Tang was also unfortunately born with dry eye condition, and had sadly her right eye, but we managed to save her left eye. We strive to keep her as happy and comfortable as possible. Tang Tang also served as Morphe's kitten-sitter and did an excellent job! Here is a photo of the smiling angel!
+A 9-year-old female Samoyed that we got from our freinds when she was 2 years old. She had a rough life, sadly: she had broken one of her forelegs when she was only a puppy, and although her former owner managed to save the leg, her mobility had been sadly restricted. Tang Tang was also unfortunately born with dry eye condition, and had sadly lost her right eye, but we managed to save her left eye. We strive to keep her as happy and comfortable as possible. Tang Tang also served as Morphe's kitten-sitter and did an excellent job! Here is a photo of the smiling angel!
 
 <p align='center'>
   <img src="pictures/TangTang.jpeg" alt="Don't you love her smile?" title="Tang Tang" style="zoom:100%;">
