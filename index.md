@@ -8,11 +8,8 @@ title: "Home"
 # Home Page
 
 <p align='center'>
-  <img src="pictures/me.jpeg" alt="A photo of me" title="Heyuan" style="zoom:20%;">
+  <img src="pictures/me.png" alt="A photo of me" title="Heyuan" style="zoom:35%;">
 </p>
-
-
-
 
 
 
