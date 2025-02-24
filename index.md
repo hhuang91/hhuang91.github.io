@@ -14,7 +14,7 @@ title: "Home"
 
 
 
-Hello and welcome! My name is Heyuan Huang, currently a Ph.D. candidate in Biomedical Engineering at Johns Hopkins University [expected graduation: April 2025]. 
+Hello and welcome! My name is Heyuan Huang, currently a Ph.D. candidate in Biomedical Engineering at Johns Hopkins University [expected graduation: February 2025]. 
 
 My reseach experience includes:
 
